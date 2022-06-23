@@ -67,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655812972609</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Расчет бонуса">
+      <created>1655813222760</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655813222760</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Расчет бонуса">
+      <created>1655813281898</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655813281898</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
